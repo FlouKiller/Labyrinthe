@@ -22,8 +22,6 @@ Un labyrinthe est un réseau de chemins et d’embranchements dont le but est de
 3. On crée une liste à deux dimensions pour contenir tous les nœuds.
 4. On parcourt cette liste pour établir les relations parent-enfant entre les nœuds, créant ainsi le labyrinthe.
 
-![Arbre Binaire](images/arbre_binaire.png)
-
 ## Développement
 
 Le projet est divisé en différentes parties, avec une difficulté croissante. 
